@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nassim\\Desktop\\propertyselling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\views\\offers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\views\\offers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\views\\offers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\views\\offers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\views\\offers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\views\\offers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\views\\offers\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\views\\offers\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|c:\\users\\nassim\\desktop\\propertyselling\\propertyselling\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6FD04D-DBB6-4E35-9411-40F545B97C7E}|propertyselling\\propertyselling.csproj|solutionrelative:propertyselling\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "propertyselling\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "propertyselling\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-27T12:19:19.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "propertyselling\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "propertyselling\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:33:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OffersController.cs",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Controllers\\OffersController.cs",
+              "RelativeDocumentMoniker": "propertyselling\\Controllers\\OffersController.cs",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Controllers\\OffersController.cs",
+              "RelativeToolTip": "propertyselling\\Controllers\\OffersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:54:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "propertyselling\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "propertyselling\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:54:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "propertyselling\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "propertyselling\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T10:49:19.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "propertyselling\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "propertyselling\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T10:43:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\Create.cshtml",
+              "RelativeDocumentMoniker": "propertyselling\\Views\\Offers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\Create.cshtml",
+              "RelativeToolTip": "propertyselling\\Views\\Offers\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T10:28:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\Details.cshtml",
+              "RelativeDocumentMoniker": "propertyselling\\Views\\Offers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\Details.cshtml",
+              "RelativeToolTip": "propertyselling\\Views\\Offers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T10:35:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\Index.cshtml",
+              "RelativeDocumentMoniker": "propertyselling\\Views\\Offers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\Index.cshtml",
+              "RelativeToolTip": "propertyselling\\Views\\Offers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T11:59:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "propertyselling\\Views\\Offers\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Views\\Offers\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "propertyselling\\Views\\Offers\\ShowSearchForm.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T11:22:13.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "offer.cs",
+              "DocumentMoniker": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Models\\offer.cs",
+              "RelativeDocumentMoniker": "propertyselling\\Models\\offer.cs",
+              "ToolTip": "C:\\Users\\nassim\\Desktop\\propertyselling\\propertyselling\\Models\\offer.cs",
+              "RelativeToolTip": "propertyselling\\Models\\offer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:34:13.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
